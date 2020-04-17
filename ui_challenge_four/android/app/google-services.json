@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "138569625246",
+    "firebase_url": "https://fir-crud-babbb.firebaseio.com",
+    "project_id": "fir-crud-babbb",
+    "storage_bucket": "fir-crud-babbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138569625246:android:281eb9646b753c6cf2d58f",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138569625246-1sctolu2vc37tr4oo6sout7mlev7hs5k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutterapp",
+            "certificate_hash": "3efa15a2ae134dc9a47cc83f9e625323fb0f7d20"
+          }
+        },
+        {
+          "client_id": "138569625246-oudinqd64g0abbp5i8m0igs7e1gu31ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJcWkFkR1x5-8mf-ZbbST9B5BP1yALxbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138569625246-oudinqd64g0abbp5i8m0igs7e1gu31ql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
